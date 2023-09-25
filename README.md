@@ -1,5 +1,10 @@
 # Banco_de_Dados-SQL
 
+Nesse trabalho tem como objetivo a retirada de informações em um banco de dados no SQL (tabela). Nessa atividade, vamos trabalhar com uma tabela de Países, que vai ter vários atributos. Cada uma das questões será respondida com o código e a saída (resultado esperado).
+Para isso utilizamos o postgres para esse trabalho.
+
+# Questões 
+
 
 ## 1. Selecione todos os dados dos países da tabela_paises;
 ```SQL
@@ -89,3 +94,8 @@ SELECT DISTINCT pais FROM tabela_paises ORDER BY pais;
 ![image](https://github.com/HenryV042/Banco_de_Dados-SQL/assets/111819715/843fc167-f3a0-4df9-b168-54ea5e4a8b3d)
 
 
+Autor: José Henry Viana Saboia 
+
+Escola: Escola Estadual de Educação Profissional Manoel Mano
+
+Créditos ao professor Adeilson Aragão.
